@@ -1,12 +1,11 @@
-# TC3002B
+# Lexical and Syntactic Analyzer.
 
 **Repositorio para la materia: "Desarrollo de aplicaciones avanzadas de ciencias computacionales"**  
 
-> Autores:
-> - Pablo Blanco
+> Authors:
+> - Pablo Emilio Blanco Celis
 > - Diego Velazquez
-> - Jaime Lopez-Hidalgo
+> - Jaime Lopez-Hidalgo Gonzalez
 > - Sebastián Rojas
-> - Moisés Chávez
-
+> - Carlos Moisés Chávez Jimenez
 
